@@ -161,7 +161,7 @@ User submits request
 
 ## 👤 Author
 
-**H Priya**
+**Siddhartha B**
 Final Year Computer Science Student
 BITM Ballari
 
